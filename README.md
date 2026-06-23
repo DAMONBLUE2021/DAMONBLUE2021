@@ -1,4 +1,4 @@
-# Hi there 👋, I'm David Samuvel Sibi H
+# Hey there, Sam here!!!
 
 ### Cybersecurity Student • Full Stack Developer • AI Builder • TEDx Speaker • SIH 2025 Winner
 
@@ -35,19 +35,9 @@ I'm a Cybersecurity student who somehow spends most of his time building product
 
 🎤 TEDx Speaker who spoke about breaking menstrual taboos and challenging social stigma.
 
-🎙️ Hosted major events including:
-
-* KUKA Inauguration
-* CIT Connects
-* Catapult Program
-* College Induction Programs
-
 📝 Editor-in-Chief of CIT Connects Magazine.
 
 ♟️ Kodaikanal Chess Champion (2023).
-
-🎯 Interviewed the Minister of State for Education.
-
 ---
 
 ## ⚡ Fun Facts
@@ -57,7 +47,7 @@ I'm a Cybersecurity student who somehow spends most of his time building product
 * I create side projects faster than I write documentation.
 * My GitHub contribution graph is healthier than my sleep schedule.
 * I have more project ideas than available semesters.
-* I treat Stack Overflow, GitHub, and coffee as a balanced diet.
+* I treat Stack Overflow, GitHub, and MILO as a balanced diet.
 
 ---
 
@@ -99,62 +89,6 @@ I'm a Cybersecurity student who somehow spends most of his time building product
 * System Design
 * Cybersecurity
 * Verilog & Hardware Design
-
----
-
-## 🔥 Featured Projects
-
-### 🎓 DecodeX
-
-A complete learning ecosystem for:
-
-* Verilog
-* SystemVerilog
-* UVM
-* Embedded C
-
-Designed to make hardware learning as engaging as modern coding platforms.
-
----
-
-### 🤖 AI HR Portal
-
-An AI-powered interview platform featuring:
-
-* Speech Analysis
-* Candidate Evaluation
-* AI Feedback
-* Interview Management
-
-Helping companies scale hiring intelligently.
-
----
-
-### 💼 Unemployed
-
-A modern Job, Internship, and Competition Platform.
-
-Features:
-
-* Advanced Filtering
-* Authentication
-* Admin Dashboards
-* Opportunity Discovery
-
-Built using Next.js and PostgreSQL.
-
----
-
-### 🧠 Speaker Assessment Platform
-
-An intelligent platform designed to evaluate:
-
-* Communication
-* Fluency
-* Pronunciation
-* Confidence
-
-Using modern AI models and evaluation pipelines.
 
 ---
 
