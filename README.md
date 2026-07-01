@@ -1,4 +1,4 @@
-# Hey, I'm David 👋
+# Hey, I'm Sam 👋
 
 **Cybersecurity Student • Full Stack Developer • AI Builder**
 
